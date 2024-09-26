@@ -10,7 +10,7 @@ const Header = () => {
           <img 
             src="/lh.jpeg"  // Correct path to the image in the public folder
             alt="Healthcare Logo"
-            //style={{ width: '80px', height: '40px', objectFit: 'contain' }}  // Adjust height if needed
+            style={{ width: '80px', height: '40px', objectFit: 'contain' }}  // Adjust height if needed
           />
         </a>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
